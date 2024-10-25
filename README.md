@@ -1,6 +1,6 @@
 # OpenAI Structured Data in Practice
 
-This is a companion repository to my Medium article showcasing OpenAI structured data outputs in action.
+This is a companion repository to my [Medium article](https://medium.com/@gallaghersam95/openai-structured-data-in-practice-01af5abddaa5) showcasing OpenAI structured data outputs in action.
 
 ## Running this application
 
