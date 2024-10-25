@@ -7,7 +7,7 @@ import { OPENAI_API_KEY } from "./keys";
 // Init the OpenAI client
 const client = new OpenAI({
     apiKey: OPENAI_API_KEY,
-    dangerouslyAllowBrowser: true // TODO: Call this out
+    dangerouslyAllowBrowser: true // NOTE: DO NOT DO THIS IN PRODUCTION
 })
 
 // Define the models
